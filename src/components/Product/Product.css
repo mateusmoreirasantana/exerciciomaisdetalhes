@@ -1,0 +1,14 @@
+.Product .product {
+  border: 1px solid black;
+  padding: 10px;
+  margin: 5px;
+}
+
+.Product .product:hover {
+  background-color: aquamarine;
+  cursor: pointer;
+}
+
+.Product .selected {
+  border: 10px solid green;
+}
